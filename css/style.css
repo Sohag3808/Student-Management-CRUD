@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Playfair Display', serif;
+}
+.navcss li{
+    padding: 0 10px;
+    font-size: 18px;
+}
+.student-section h2{
+    font-size: 40px;
+    font-weight: 600;
+    color: rgb(251, 251, 251);
+    text-shadow: 2px 2px 4px #afafaf;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.table_body{
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.view-details a{
+    text-decoration: none;
+}
+.student-section .add-button{
+    padding: 12px 30px;
+    font-size: 18px;
+    color: #fff;
+    font-weight: 600;
+    margin-top: 108px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    transition: 0.3s;
+}
+.student-section .add-button:hover{
+    background: transparent;
+    color: black;
+}
+.student-section .table-heding th{
+    color: #fff !important;
+}
